@@ -16,6 +16,17 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity" />
+        <activity android:name=".activity401"
+                  android:label="401"/>
+        <activity android:name=".activity401k"
+                  android:label="401 K"/>
+        <activity android:name=".activity273c"
+                  android:label="273 C"/>
+        <activity android:name=".activity401b"
+                  android:label="401 K"/>
+        <activity android:name=".activity402b"
+                  android:label="402 B"></activity>
     </application>
 
 </manifest>
