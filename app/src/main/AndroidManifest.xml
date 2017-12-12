@@ -17,16 +17,31 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity" />
-        <activity android:name=".activity401"
-                  android:label="401"/>
-        <activity android:name=".activity401k"
-                  android:label="401 K"/>
-        <activity android:name=".activity273c"
-                  android:label="273 C"/>
-        <activity android:name=".activity401b"
-                  android:label="401 K"/>
-        <activity android:name=".activity402b"
-                  android:label="402 B"></activity>
+        <activity
+            android:name=".activity401"
+            android:label="401" />
+        <activity
+            android:name=".activity401k"
+            android:label="401 K" />
+        <activity
+            android:name=".activity273c"
+            android:label="273 C" />
+        <activity
+            android:name=".activity401b"
+            android:label="401 K" />
+        <activity
+            android:name=".activity402b"
+            android:label="402 B" />
+        <activity android:name=".activity273"
+                  android:label="273"/>
+        <activity android:name=".activity500"
+                  android:label="500"/>
+        <activity android:name=".activityk2"
+                  android:label="K2"/>
+        <activity android:name=".activity99b"
+                  android:label="99B"/>
+        <activity android:name=".activity276"
+                  android:label="276"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "534312135554",
+    "firebase_url": "https://find-ur-way.firebaseio.com",
+    "project_id": "find-ur-way",
+    "storage_bucket": "find-ur-way.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534312135554:android:d46b1c6e2393ec63",
+        "android_client_info": {
+          "package_name": "com.slohith.findurway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534312135554-r5ql6nekd1kn35n8ti1matk5cqghvruk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7xN5ZlcmN4JkL51f2ugCXnZK_AlzzVSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

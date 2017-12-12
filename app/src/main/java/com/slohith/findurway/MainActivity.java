@@ -27,13 +27,14 @@ import com.google.firebase.database.ValueEventListener;
 
 
 public class MainActivity extends AppCompatActivity {
-
+    private DatabaseReference ref;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Button button = (Button) findViewById(R.id.button);
+        ref = FirebaseDatabase.getInstance().getReference();
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -41,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
-
     }
 }
 
