@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@drawable/activitypage"
     tools:context="com.slohith.findurway.activity">
 
     <TextView
@@ -15,20 +16,22 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="48dp"/>
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/number"
         android:inputType="text"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="16dp"/>
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"/>
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Submit"
         android:textSize="32dp"
         android:id="@+id/numberbutton"
-        android:layout_marginLeft="160dp"
+        android:layout_marginLeft="120dp"
         android:layout_marginTop="16dp"
         />
+
 
 </LinearLayout>
