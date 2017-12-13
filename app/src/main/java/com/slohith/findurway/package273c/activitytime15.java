@@ -1,13 +1,15 @@
-package com.slohith.findurway;
+package com.slohith.findurway.package273c;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class activitytime18 extends AppCompatActivity {
+import com.slohith.findurway.R;
+
+public class activitytime15 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_activitytime18);
+        setContentView(R.layout.activity_activitytime15);
     }
 }

@@ -1,7 +1,9 @@
-package com.slohith.findurway;
+package com.slohith.findurway.package273c;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.slohith.findurway.R;
 
 public class activitytime23 extends AppCompatActivity {
 

@@ -1,15 +1,18 @@
 package com.slohith.findurway;
 
+import android.content.Context;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 public class activity extends AppCompatActivity {
   Button but;
   EditText num;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -76,6 +79,10 @@ public class activity extends AppCompatActivity {
            {
                Intent i10 = new Intent(activity.this,activity99b.class);
                startActivity(i10);
+           }
+           else
+           {
+               Toast.makeText(this,"App still in development phase.All routes will be available soon",Toast.LENGTH_LONG).show();
            }
 
     }

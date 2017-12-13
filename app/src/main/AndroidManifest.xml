@@ -47,24 +47,24 @@
         <activity
             android:name=".activity276"
             android:label="276" />
-        <activity android:name=".activitytime11" />
-        <activity android:name=".activitytime12" />
-        <activity android:name=".activitytime13" />
-        <activity android:name=".activitytime14" />
-        <activity android:name=".activitytime15" />
-        <activity android:name=".activitytime16" />
-        <activity android:name=".activitytime17" />
-        <activity android:name=".activitytime18" />
-        <activity android:name=".activitytime19" />
-        <activity android:name=".activitytime20" />
-        <activity android:name=".activitytime21" />
-        <activity android:name=".activitytime22" />
-        <activity android:name=".activitytime23" />
-        <activity android:name=".activitytime24" />
-        <activity android:name=".activitytime25" />
-        <activity android:name=".activitytime26" />
-        <activity android:name=".activitytime27" />
-        <activity android:name=".activitytime28"></activity>
+        <activity android:name=".package273c.activitytime11" />
+        <activity android:name=".package273c.activitytime12" />
+        <activity android:name=".package273c.activitytime13" />
+        <activity android:name=".package273c.activitytime14" />
+        <activity android:name=".package273c.activitytime15" />
+        <activity android:name=".package273c.activitytime16" />
+        <activity android:name=".package273c.activitytime17" />
+        <activity android:name=".package273c.activitytime18" />
+        <activity android:name=".package273c.activitytime19" />
+        <activity android:name=".package273c.activitytime20" />
+        <activity android:name=".package273c.activitytime21" />
+        <activity android:name=".package273c.activitytime22" />
+        <activity android:name=".package273c.activitytime23" />
+        <activity android:name=".package273c.activitytime24" />
+        <activity android:name=".package273c.activitytime25" />
+        <activity android:name=".package273c.activitytime26" />
+        <activity android:name=".package273c.activitytime27" />
+        <activity android:name=".package273c.activitytime28"></activity>
     </application>
 
 </manifest>
