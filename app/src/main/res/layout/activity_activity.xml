@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@drawable/activitypage"
+    android:background="@drawable/acpage2"
     tools:context="com.slohith.findurway.activity">
 
     <TextView
@@ -14,7 +14,9 @@
         android:text="Enter the bus number"
         android:textSize="32sp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="48dp"/>
+        android:layout_marginTop="48dp"
+        android:textColor="#FFFFFF"
+        />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -23,15 +25,18 @@
         android:layout_marginLeft="16dp"
         android:layout_marginTop="16dp"
         android:layout_marginRight="16dp"/>
+
     <Button
+        android:id="@+id/numberbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Submit"
-        android:textSize="32dp"
-        android:id="@+id/numberbutton"
         android:layout_marginLeft="120dp"
         android:layout_marginTop="16dp"
-        />
+        android:backgroundTint="@android:color/transparent"
+        android:text="Submit"
+        android:textColor="#FF5643"
+
+        android:textSize="32dp" />
 
 
 </LinearLayout>
