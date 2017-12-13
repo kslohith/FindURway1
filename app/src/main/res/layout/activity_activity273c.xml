@@ -27,7 +27,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place2"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -35,7 +36,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place3"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -43,7 +45,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place4"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -51,7 +54,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place5"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -59,7 +63,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place6"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -67,7 +72,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place7"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -75,7 +81,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place8"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -83,7 +90,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place9"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -91,7 +99,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place10"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -99,7 +108,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place11"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -107,7 +117,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place12"/>
 
     <TextView
        android:layout_width="match_parent"
@@ -116,7 +127,8 @@
        android:layout_marginLeft="16dp"
        android:layout_marginRight="16dp"
        android:layout_marginTop="16dp"
-       android:layout_marginBottom="16dp"/>
+       android:layout_marginBottom="16dp"
+        android:id="@+id/place13"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -124,7 +136,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place14"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -132,7 +145,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place15"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -140,7 +154,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place16"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -148,7 +163,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place17"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -156,7 +172,8 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="16dp"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:id="@+id/place18"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

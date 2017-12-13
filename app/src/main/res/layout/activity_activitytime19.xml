@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="400dp"
-        android:text="Time: 57 minutes"
+        android:text="Time: 50 minutes"
         android:textSize="16sp"
         android:textColor="#D84315"
         android:layout_centerHorizontal="true" />
@@ -29,8 +29,9 @@
         android:layout_marginTop="512dp"
         android:textSize="32sp"
         android:textColor="#FFFFFF"
-        android:text="Kempegowda Bus Station"
+        android:text="Yeshwantpur Toll Gate"
         android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>
+
