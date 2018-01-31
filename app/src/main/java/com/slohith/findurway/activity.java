@@ -65,21 +65,6 @@ public class activity extends AppCompatActivity {
                Intent i7 = new Intent(activity.this,activity276.class);
                startActivity(i7);
            }
-           else if( busnumber.compareToIgnoreCase("500") == 0 )
-           {
-               Intent i8 = new Intent(activity.this,activity500.class);
-               startActivity(i8);
-           }
-           else if( busnumber.compareToIgnoreCase("K2") == 0 )
-           {
-               Intent i9 = new Intent(activity.this,activityk2.class);
-               startActivity(i9);
-           }
-           else if( busnumber.compareToIgnoreCase("99 B") == 0 )
-           {
-               Intent i10 = new Intent(activity.this,activity99b.class);
-               startActivity(i10);
-           }
            else
            {
                Toast.makeText(this,"App still in development phase.All routes will be available soon",Toast.LENGTH_LONG).show();

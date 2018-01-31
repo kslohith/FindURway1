@@ -53,6 +53,7 @@ public class activity273c extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i13 = new Intent(activity273c.this,activitytime13.class);
                 startActivity(i13);
+
             }
         });
         t = (TextView) findViewById(R.id.place4);
